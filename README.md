@@ -9,7 +9,7 @@
 - GitHub, Google Colab, Jupyter Notebook
 - VSCode, Docker, Leankit
 
-### Languages: 
+#### Languages: 
 - English (Native)
 - Malay, Mandarin, Cantonese (Intermediate) 
 
