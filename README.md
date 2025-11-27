@@ -1,8 +1,16 @@
 # Aspiring Data Scientist / AI / ML Engineer
 
-#### **Technical Skills**: Python (Numpy, Pandas, Sci-Kit Learn, PyTorch), R, Tableau MySQL, Spark SQL, Apache Spark, Apache Kafka, HTML/CSS, JavaScript, Project Management, Agile
-#### **Developer Tools**: GitHub, Google Colab, Jupyter Notebook, VSCode, Docker, Leankit
-#### **Languages**: English (Native), Malay, Mandarin, Cantonese (Intermediate) 
+#### Technical Skills: 
+- Python (Numpy, Pandas, Sci-Kit Learn, PyTorch), R, Tableau
+- MySQL, Spark SQL, Apache Spark, Apache Kafka
+- HTML/CSS, JavaScript, Project Management, Agile
+
+#### Developer Tools: 
+- GitHub, Google Colab, Jupyter Notebook
+- VSCode, Docker, Leankit
+#### Languages: 
+- English (Native)
+- Malay, Mandarin, Cantonese (Intermediate) 
 
 ## Education							       		
 - M.S., Data Science	   | Monash University (_Nov 2025_)	 			        		
