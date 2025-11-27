@@ -34,7 +34,8 @@
 ## Projects
 ### LinkedWise – AI-Powered STEM Career Guidance Platform (Monash University Capstone Project)
 [Website](https://linkedwise-web.onrender.com/)
-[Image](/assets/img/linkedwise_landing.jpg)
+
+![Image](/assets/img/linkedwise_landing.jpg)
 
 - Developed AI-driven features including resume summarisation, skill-gap detection, and personalised career recommendations using Google Gemini, NLP techniques, and structured data modelling.
 - Designed and engineered the data architecture, implementing a secure PostgreSQL/AWS RDS backend, RIASEC psychometric scoring logic, and end-to-end data pipelines for AI processing, storage, and retrieval.
