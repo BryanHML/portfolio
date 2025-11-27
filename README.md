@@ -14,7 +14,8 @@
 - Malay, Mandarin, Cantonese (Intermediate) 
 
 ## Education							       		
-- M.S., Data Science	   | Monash University (_Nov 2025_)	 			        		
+- M.S., Data Science	   | Monash University (_Nov 2025_)	 
+    - **Relevant Coursework**: Statistical Modelling, Machine Learning, Deep Learning, Semi-Structured Data,Wrangling,Big Data, Project Management 
 - B.S., Biomedical Science | Monash University (_Nov 2021_)
 
 ## Work Experience
