@@ -32,7 +32,7 @@
 - Developed a custom Python metrics script to compute layout-wise accuracy, macro accuracy, F1-scores, and confusion matrices for model evaluation.
 
 ## Projects
-### LinkedWise – AI-Powered STEM Career Guidance Platform (Monash University Capstone Project)
+### LinkedWise – AI-Powered STEM Career Guidance Platform (Monash University Capstone Team Project)
 [Website](https://linkedwise-web.onrender.com/)
 
 ![Image](/assets/img/linkedwise_landing.jpg)
